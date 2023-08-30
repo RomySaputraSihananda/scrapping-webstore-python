@@ -35,7 +35,7 @@ if(__name__ == '__main__'):
             # validasi jika variable data bernilai False, maka looping berhenti
             if(not data): break;
             
-            # log ke layar
+            # log ke layar category dan page yang discrapping 
             print(f'Category : {category}\nPage     : {i + 1}');
 
             # menulis data dari variable data (setiap page)
