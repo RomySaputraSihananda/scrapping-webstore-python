@@ -23,7 +23,7 @@ Project ini adalah tugas dari program magang di **PT. INDONESIA INDIKATOR**. Tuj
  ┃ ┣ 📜browser.py
  ┃ ┣ 📜filter.py
  ┃ ┗ 📜write.py
- ┗  📜main.py
+ ┗ 📜main.py
 ```
 
 ## Tech
